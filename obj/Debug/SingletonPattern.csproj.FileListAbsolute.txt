@@ -1,0 +1,12 @@
+C:\Users\Yacine\Documents\DesignPatternsInCSharpVS2012\SingletonPattern\bin\Debug\SingletonPattern.exe.config
+C:\Users\Yacine\Documents\DesignPatternsInCSharpVS2012\SingletonPattern\bin\Debug\SingletonPattern.exe
+C:\Users\Yacine\Documents\DesignPatternsInCSharpVS2012\SingletonPattern\bin\Debug\SingletonPattern.pdb
+C:\Users\Yacine\Documents\DesignPatternsInCSharpVS2012\SingletonPattern\obj\Debug\SingletonPattern.csprojResolveAssemblyReference.cache
+C:\Users\Yacine\Documents\DesignPatternsInCSharpVS2012\SingletonPattern\obj\Debug\SingletonPattern.MainForm.resources
+C:\Users\Yacine\Documents\DesignPatternsInCSharpVS2012\SingletonPattern\obj\Debug\SingletonPattern.Properties.Resources.resources
+C:\Users\Yacine\Documents\DesignPatternsInCSharpVS2012\SingletonPattern\obj\Debug\SingletonPattern.csproj.GenerateResource.Cache
+C:\Users\Yacine\Documents\DesignPatternsInCSharpVS2012\SingletonPattern\obj\Debug\SingletonPattern.exe
+C:\Users\Yacine\Documents\DesignPatternsInCSharpVS2012\SingletonPattern\obj\Debug\SingletonPattern.pdb
+C:\Users\Yacine\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\SingletonPattern\bin\Debug\SingletonPattern.exe.config
+C:\Users\Yacine\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\SingletonPattern\obj\Debug\SingletonPattern.exe
+C:\Users\Yacine\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\SingletonPattern\obj\Debug\SingletonPattern.pdb
